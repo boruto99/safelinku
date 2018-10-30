@@ -21,12 +21,12 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="2")http://www.medis.ga/2004/04/avoid-dieting-make-positive-changes.html"}
-if(x=="3")http://www.medis.ga/2007/02/dieting-and-fitness.html"}
-if(x=="4")http://www.medis.ga/2012/03/dieting-for-children.html"}
-if(x=="5")http://www.medis.ga/2017/07/atkins-for-dieting.html"}
-if(x=="6")http://www.medis.ga/2017/07/3-hour-dieting.html"}
-if(x=="1")http://www.medis.ga/2009/11/dieting-and-weight-loss-drugs.html"}
+if(x=="2")https://www.medis.ga/2004/04/avoid-dieting-make-positive-changes.html"}
+if(x=="3")https://www.medis.ga/2007/02/dieting-and-fitness.html"}
+if(x=="4")https://www.medis.ga/2012/03/dieting-for-children.html"}
+if(x=="5")https://www.medis.ga/2017/07/atkins-for-dieting.html"}
+if(x=="6")https://www.medis.ga/2017/07/3-hour-dieting.html"}
+if(x=="1")https://www.medis.ga/2009/11/dieting-and-weight-loss-drugs.html"}
 a_to_ve[i].href="http://www.medis.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
